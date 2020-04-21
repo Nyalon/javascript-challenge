@@ -1,6 +1,6 @@
 # Mars data filtering dashboard
 
-An interactive dashboard that searches and sorts through ufo data using js.
+My objecteive was to create An interactive dashboard that searches and sorts through ufo data. Using html, and js I was able to develop a filtering module that can search through different entries by date. 
 
 ### Data filtering module preview
 
